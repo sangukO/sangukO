@@ -5,7 +5,7 @@
 
 
   [![sangukO's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangukO&count_private=true&show_icons=true&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangukO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangukO&layout=compact&exclude_repo=HER,B-Shop,go)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
