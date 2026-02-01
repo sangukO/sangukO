@@ -1,21 +1,20 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00eeee,100:6200ee&height=230&section=header&text=sangukO&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:766CC1,100:41397A&height=130&section=header&fontAlignY=43&text=sangukO&fontSize=18&fontColor=FFFFFF)
+**🖐️ Hello!** <br/>
+**Thanks for visiting my GitHub.**
 
-주니어 프론트엔드 개발자입니다.
-
-Email: woqls1972@gmail.com
 <br/>
-Portfolio: 
 
-language
+#### ✦ LANGUAGES
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-round&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-round&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-round&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=TypeScript&logoColor=white"/>
 
-<img src="https://github.com/user-attachments/assets/d278488a-8472-44cf-b84d-4066744561a9" width="10%" height="10%">
-
-<img src="https://github.com/user-attachments/assets/f243aaf6-06ac-4fa1-92ab-e5ffa93feec1" width="10%" height="10%">
-
-#### Statistics excluding C, CSS, Java, Python
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sangukO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&locale=kr"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangukO&layout=compact&hide_border=true&hide=css,c,java,python" /></a> |
-| ------------- | ------------- |
+#### ✦ FRAMEWORKS & LIBRARIES
+<img src="https://img.shields.io/badge/React-6EC0EB?style=flat-round&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-round&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-round&logo=Next.js&logoColor=white"/>
 
 </div>
