@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:879FEB,100:BEB5E8&height=150&section=header&text=sangukO%20&fontSize=24&animation=fadeIn&fontColor=ffffff)
+
+<br/>
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:766CC1,100:41397A&height=130&section=header&fontAlignY=43&text=sangukO&fontSize=25&fontColor=FFFFFF)
 **🖐️ Hello!** <br/>
 **Thanks for visiting my GitHub.**
 
@@ -12,9 +14,14 @@
 <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-round&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-round&logo=TypeScript&logoColor=white"/>
 
+<br/>
+
 #### ✦ FRAMEWORKS & LIBRARIES
 <img src="https://img.shields.io/badge/React-6EC0EB?style=flat-round&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-round&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-round&logo=Next.js&logoColor=white"/>
 
 </div>
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:879FEB,100:BEB5E8&height=150&section=footer&fontSize=24&animation=fadeIn&fontColor=ffffff)
