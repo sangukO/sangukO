@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:766CC1,100:41397A&height=130&section=header&fontAlignY=43&text=sangukO&fontSize=18&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:766CC1,100:41397A&height=130&section=header&fontAlignY=43&text=sangukO&fontSize=25&fontColor=FFFFFF)
 **🖐️ Hello!** <br/>
 **Thanks for visiting my GitHub.**
 
